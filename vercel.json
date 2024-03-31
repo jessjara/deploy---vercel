@@ -14,5 +14,8 @@
             "src": "/(.*)",
             "dest": "python_heroku_task/wsgi.py"
         }
-    ]
+    ],
+    "engines": {
+        "node": "18x"
+    }
 }
